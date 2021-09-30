@@ -15,5 +15,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://blob:file:///home/alex/Downloads/WhatsApp%20Image%202021-09-30%20at%2000.15.32%20(1).jpeg">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892980991944171521/892982313032482896/WhatsApp_Image_2021-09-30_at_00.15.32.jpeg?width=452&height=452">
 </div>
+/home/alex/Downloads/WhatsApp%20Image%202021-09-30%20at%2000.15.32%20(1).jpeg
