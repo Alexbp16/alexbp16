@@ -5,12 +5,10 @@
 - 🤔 I’m looking for help with node...
 - 📫 How to reach me:alexbravop@gmail.com.
 - 😄 Pronouns:el/de el....
-  
-  
   <div align="side">
   <a href="https://github.com/alexbp16">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alexbp16&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbp16&layout=compact&langs_count=7&theme=merko"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=alexbp16&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbp16&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
